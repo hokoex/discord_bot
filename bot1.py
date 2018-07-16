@@ -292,4 +292,4 @@ class Music:
 
 bot.add_cog(Music(bot))
 
-bot.run('NDI2MDkzMzg5MzM1NzU2ODAw.DZQ-cA.G3oOym0zqPMxM9JEZbCWBuGm2Ug')
+bot.run('discord token')
